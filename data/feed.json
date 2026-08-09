@@ -1,0 +1,1244 @@
+{
+  "generatedAt": "2026-08-09T08:33:18.499Z",
+  "retentionDays": 14,
+  "items": [
+    {
+      "id": "e2ce672c6ade006e4283f3aac60b0264feacb4d065b2d075fa751fab39c20565",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "DATUM STUDIO株式会社",
+      "title": "【5days有給インターン/データスペシャリスト】データ基盤構築〜分析まで一貫して経験! AWS、最先端のデータテクノロジーを触る5日間。データ業界を牽引する企業で一緒に成長しませんか?",
+      "deadline": "2026/08/17",
+      "detailUrl": "https://hrmos.co/pages/datumstudio/jobs/2138921283063963681"
+    },
+    {
+      "id": "f03619026a9370bdd07cf1565a2915204f13decb4659529e142369cd89872fb4",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "GMOインターネットグループ株式会社",
+      "title": "新卒年収710万プログラム|超早期選考",
+      "deadline": "2026/09/30",
+      "detailUrl": "https://mypage.3030.i-webs.jp/gmo2028/applicant/login/baitai-entry/entrycd/MH1"
+    },
+    {
+      "id": "f2cfc82160cd56152196de87a9fc46405dc6c49be46981291261a59f9561a8f0",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "Sansan株式会社",
+      "title": "エンジニア職実務体験型有給インターン -Sansan Internship-",
+      "deadline": "2027/03/31",
+      "detailUrl": "https://newgradsevents.corp-sansan.com/engineer/200001"
+    },
+    {
+      "id": "8f7c68a0c28a8a3aad44f1c7d2b173b30a69f6e9e63abf5a29dd6ebc239248ee",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "STORES 株式会社",
+      "title": "テクノロジーエキスパート 中長期実務インターン",
+      "deadline": "2027/03/31",
+      "detailUrl": "https://hrmos.co/pages/storesinc/jobs/2092533067202805817"
+    },
+    {
+      "id": "a3719c186aa6b533422ec47606b33e2b286d6d1915aa0d5c9fad1f340b6ff0e9",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "STORES 株式会社",
+      "title": "新卒採用|テクノロジーエキスパート",
+      "deadline": "2027/03/31",
+      "detailUrl": "https://hrmos.co/pages/storesinc/jobs/2092533067202805818"
+    },
+    {
+      "id": "bad54568f281bf6f6bc200227c30657e324a1bdd0dd4a3522e03dd6b32f394fd",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "STORES 株式会社",
+      "title": "新卒採用|総合職(ビジネス×テクノロジー)",
+      "deadline": "2027/03/31",
+      "detailUrl": "https://hrmos.co/pages/storesinc/jobs/2092533067202805823"
+    },
+    {
+      "id": "4efa46744e814ed6ced4a0db59b4707f102d6d881150c6cecf9b73e3ef0cd0df",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "ウェルスナビ株式会社",
+      "title": "【28卒|就業型インターン】システム運用の“攻め”と“守り”を学ぶSREインターン",
+      "deadline": "2026/08/14",
+      "detailUrl": "https://public.n-ats.hrmos.co/wealthnavi/jobs/2229429086938320896?src=8d476ec9-0a7a-48b0-9cb9-716cc2d58bc9"
+    },
+    {
+      "id": "ad1b0f073532d96392484c98d009d2a8cf282332ed5c348a091b6ecac1733dd3",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "ウェルスナビ株式会社",
+      "title": "【28卒|就業型インターン】チームの生産性・開発体験を向上。仕組み作りでプロダクトを支える<SWE>",
+      "deadline": "2026/08/14",
+      "detailUrl": "https://public.n-ats.hrmos.co/wealthnavi/jobs/2228359974395199488?src=7db702f9-069b-4fec-a822-b7c197ccb0ab"
+    },
+    {
+      "id": "00049699d535167e39f4d2e9d82ce83ab694aff9ad6cd76560de8feee01849db",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "エキサイト株式会社",
+      "title": "🗼\nフルリモ★ユーザが利用するプロダクトに携わる1ヶ月(月80時間)就業型インターンシップ|本選考直結【28卒】 (8月〜11月の4ターム開催)",
+      "deadline": "2026/10/09",
+      "detailUrl": "https://info.excite.co.jp/internship/excitech-camp-2026"
+    },
+    {
+      "id": "2dd523963cce6a4d2ed0020994d81b3ade195c5d61c017e0317e7774819bb77f",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "エムスリー株式会社",
+      "title": "AIチームMLOpsエンジニア(2 weeks)",
+      "deadline": "2027/04/01",
+      "detailUrl": "https://open.talentio.com/r/1/c/m3/pages/78950"
+    },
+    {
+      "id": "c70fe36a41bd425c5831e17de1d9fa5635ec6df9f8bf0fbca61c489ab72f6c40",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "エムスリー株式会社",
+      "title": "アプリエンジニア (2 weeks)",
+      "deadline": "2027/04/01",
+      "detailUrl": "https://open.talentio.com/r/1/c/m3/pages/80782"
+    },
+    {
+      "id": "3bdc15759a953c2b28d200d600a3d6d94c80797fb38384e495f5282f17850486",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "エムスリー株式会社",
+      "title": "ソフトウェアエンジニア (2 weeks)",
+      "deadline": "2027/04/01",
+      "detailUrl": "https://open.talentio.com/r/1/c/m3/pages/80781"
+    },
+    {
+      "id": "0597f440d107569c84b3d74a6dc89362c4a32b4cd0b8af9cab206cddb0f3f2cd",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "エムスリー株式会社",
+      "title": "機械学習エンジニア (2 weeks)",
+      "deadline": "2027/04/01",
+      "detailUrl": "https://open.talentio.com/r/1/c/m3/pages/78949"
+    },
+    {
+      "id": "d93e7e56ce35a958da203f8367befd146801127bd213cec967980eee2b966536",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "カラビナテクノロジー株式会社",
+      "title": "👨‍💻エンジニアアルバイト募集👩‍💻",
+      "deadline": "2027/03/31",
+      "detailUrl": "https://karabiner-inc.notion.site/078df1bc23864123a6f99222d0494297"
+    },
+    {
+      "id": "8609d12d8469a5e906928c7eba31803cb905b254f3fa2e585539e5f6adf0e1e3",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "カラビナテクノロジー株式会社",
+      "title": "開発未経験もOK。下関の企業課題を形にするハッカソン!!",
+      "deadline": "2026/08/24",
+      "detailUrl": "https://forms.gle/49vQG56LktQRjwMg8"
+    },
+    {
+      "id": "e6aa558a69ae712b6a126a915485e9b5323b6a6d255f0e717af69492410d2282",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "カラビナテクノロジー株式会社",
+      "title": "福岡天神開催!要件定義から開発の発表まで。5日間チーム開発サマーインターン (1)",
+      "deadline": "2026/08/10",
+      "detailUrl": "https://forms.gle/EHHuF9oTGuoG9t5g7"
+    },
+    {
+      "id": "187d7814f8108d3abd3c8a13bbe2343273a3bbf527d2244db3470d1a7aecc9d7",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "クリエーションライン株式会社",
+      "title": "28卒★5daysインターン|AI駆動でWebアプリの開発体験【日当10,000円/交通費宿泊費補助】",
+      "deadline": "2026/09/07",
+      "detailUrl": "https://www.career-cloud.asia/28/entry/job/offer/creationline27/detail/152"
+    },
+    {
+      "id": "96c97061c4500e20578f8e649af96f83d6a6a606d0be672edf933677153b987d",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "チームラボ",
+      "title": "[オンライン開催]三井不動産×チームラボ2daysワークショップ事前説明会",
+      "deadline": "2026/09/03 19:00",
+      "detailUrl": "https://open.talentio.com/r/1/c/teamlab/pages/125890/apply"
+    },
+    {
+      "id": "05112536e766d71a2aeca170069d12daae17166ee3c89a71f225035564b9ebe5",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "チームラボ",
+      "title": "1日でスマホアプリ開発を体験!1dayハッカソン(Flutter/Android/iOS)",
+      "deadline": "2026/09/24 10:00",
+      "detailUrl": "https://open.talentio.com/r/1/c/teamlab/pages/125859/apply"
+    },
+    {
+      "id": "4e55772959117b974013f1e3a8993945ad556025bc341208e3c8596dd3bde56e",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "チームラボ",
+      "title": "三井不動産×チームラボ2daysワークショップ",
+      "deadline": "2026/09/04 12:00",
+      "detailUrl": "https://open.talentio.com/r/1/c/teamlab/pages/125889/apply"
+    },
+    {
+      "id": "c3a4a9430c1aed248e38b025ad952ed547288ab71df5778798a359e6d3580770",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "フラー株式会社",
+      "title": "【27卒】ソフトウェアエンジニア",
+      "deadline": "2027/03/26",
+      "detailUrl": "https://herp.careers/v1/fuller/q9DEGZtrU4SM?token=81XSTJRk0homOLWAmlnjU"
+    },
+    {
+      "id": "89b679dd30fc6b4155f5f26637473932174d1b9718c068c24643d4dbee0a8209",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "ポケットサイン株式会社",
+      "title": "🌊夏季🌊就業型長期インターン!【4週間~/時給1500円~】自社プロダクト・実践で技術を磨こう!Go・React💻",
+      "deadline": "2026/09/30",
+      "detailUrl": "https://hrmos.co/pages/pocketsign/jobs/0000112"
+    },
+    {
+      "id": "0d74d89875f5dd67625eb58fdb09f725b70785a2cf9f7633ad75dce0315669eb",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "マインドフリー株式会社",
+      "title": "28卒&29卒|「技術+企画」で視野を広げる!モノづくりの本質に触れる体験型1Dayインターン",
+      "deadline": "2026/09/14",
+      "detailUrl": "https://meeting.eeasy.jp/mindfree/intern"
+    },
+    {
+      "id": "87f163a24362a651fcbebd03213a4a0be608461cebc51d0b0d403deaaa61a0e3",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ABEJA",
+      "title": "<通年インターン>Physical AI ロボット・メカニカルエンジニア",
+      "deadline": "2027/01/31",
+      "detailUrl": "https://www.abejainc.com/"
+    },
+    {
+      "id": "c16b0640bb3b8b319ea85fd0dd0d857640f3aa9510218309f955764303d858b6",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ABEJA",
+      "title": "<通年インターン>データサイエンティスト",
+      "deadline": "2027/01/31",
+      "detailUrl": "https://hrmos.co/pages/abeja/jobs/1778334258199916582"
+    },
+    {
+      "id": "51ca5750ca8b694afcd942c239e031773c26c85276c90d44e7a505b5cc3e3856",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ABEJA",
+      "title": "<通年インターン>フルスタックエンジニア(ソリューションエンジニア)",
+      "deadline": "2027/01/31",
+      "detailUrl": "https://hrmos.co/pages/abeja/jobs/2054751761130872845"
+    },
+    {
+      "id": "c45a36436698056cc6a4a084907787a733e55f2c05a0ad06c671362f48902796",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社Hacobu",
+      "title": "【CTO・VPoE参加|3Days対面】物流DXのリアル課題に挑む課題解決型ハッカソン(28卒エンジニア向け)",
+      "deadline": "2026/08/31",
+      "detailUrl": "https://hacobu-recruitment.snar.jp/entry.aspx?entryid=1fe8f6d0-89e5-4d5e-883a-447245548298"
+    },
+    {
+      "id": "07258105c796656f15a5d51881077b615dc69b27d42b7150ed152a8f9778c9c7",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社HRBrain",
+      "title": "HRBrain 2days アイデアソン《コードテストなし/交通費支給あり◎》",
+      "deadline": "2026/08/21",
+      "detailUrl": "https://hrbrain-recruit.snar.jp/jobboard/detail.aspx?id=pfi4RImb2lo"
+    },
+    {
+      "id": "5fcd5a4f45cdf8658b7c4c5ffe0e954e363c28996c1d67115fbbc0ab76f5621d",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社LayerX",
+      "title": "【Ai Workforce】AIワークフローエンジニア_実務インターン",
+      "deadline": "2026/09/30",
+      "detailUrl": "https://open.talentio.com/r/1/c/layerx/pages/83317?_gl=1*14y544k*_ga*MTMxMjc4NzQ4MC4xNzY3NjAwNjU5*_ga_P7NVR1250K*czE3NzE0NzY5OTYkbzUxJGcxJHQxNzcxNDc3MDAyJGo1NCRsMCRoMA"
+    },
+    {
+      "id": "7af1bed9ceaa36c51788b9c07017350320b28374791d34bc94171500d71fbcca",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社LayerX",
+      "title": "【Ai Workforce】ソフトウェアエンジニア_実務インターン",
+      "deadline": "2026/09/30",
+      "detailUrl": "https://open.talentio.com/r/1/c/layerx/pages/116403?_gl=1*7qri20*_ga*MTMxMjc4NzQ4MC4xNzY3NjAwNjU5*_ga_P7NVR1250K*czE3NzE0NzY5OTYkbzUxJGcxJHQxNzcxNDc3MDAyJGo1NCRsMCRoMA"
+    },
+    {
+      "id": "280717f24f08d112f3aa3ea38667a6ea9dba7fffdffec00b953f09beca856c3e",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社LayerX",
+      "title": "【バクラク】AI・LLMエンジニア_実務インターン",
+      "deadline": "2026/09/30",
+      "detailUrl": "https://open.talentio.com/r/1/c/layerx/pages/106997?_gl=1*70vdj2*_ga*MTMxMjc4NzQ4MC4xNzY3NjAwNjU5*_ga_P7NVR1250K*czE3NzYzMDQwODckbzExNiRnMCR0MTc3NjMwNDA4NyRqNjAkbDAkaDA"
+    },
+    {
+      "id": "5e4be93c94afb3daf4c264f8e8bf440decd5cb748a22aef708954f3c94f9f632",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社LayerX",
+      "title": "【バクラク】ソフトウェアエンジニア(開発基盤)_実務インターン / 26卒・27卒・28卒",
+      "deadline": "2026/09/30",
+      "detailUrl": "https://open.talentio.com/r/1/c/layerx/pages/107536?_gl=1*owh5yi*_ga*MTMxMjc4NzQ4MC4xNzY3NjAwNjU5*_ga_P7NVR1250K*czE3NzE0NzY5OTYkbzUxJGcxJHQxNzcxNDc3MDAyJGo1NCRsMCRoMA"
+    },
+    {
+      "id": "54d0215b4b5bead48cc90cbc11a0962e695d9d769e4272f1ed44ecc5704683df",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社LayerX",
+      "title": "【バクラク】プロダクト開発職(新卒採用)_2026サマーインターン",
+      "deadline": "2026/09/30",
+      "detailUrl": "https://open.talentio.com/r/1/c/layerx/pages/120131"
+    },
+    {
+      "id": "0c549b90e15b7f4fdbe68132be8cb47c5071087fe13ba76523a6817c0fbeef5b",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社MonotaRO",
+      "title": "【27卒/Tech職/いつでも視聴可】TechWebinar",
+      "deadline": "2026/12/31",
+      "detailUrl": "https://forms.gle/F1EneDaCxzuQ55Z9A"
+    },
+    {
+      "id": "6572bc0087cdf8755dc1aa47984a569af71857920c80c46c8c173ce1aa84111d",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社MonotaRO",
+      "title": "2027新卒採用 - 技術職(システムエンジニア)",
+      "deadline": "2026/12/31",
+      "detailUrl": "https://hrmos.co/pages/monotaro/jobs/10000C0925_001"
+    },
+    {
+      "id": "0f31d8dfaac4d846bad9866ca207bfb5442b02e0f7a7fc217b3b21c2cdba8f89",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社PKSHA Technology",
+      "title": "【27卒】ソフトウエアエンジニア本選考",
+      "deadline": "2027/01/31",
+      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/jobs/2146137697692459008?src=f7a67ebb-f4a0-4266-8b34-279df258f6bb"
+    },
+    {
+      "id": "b789b223a5988cecc8b0097209f7eaf207dd1536f69191525a8d8bd637137c7c",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社PKSHA Technology",
+      "title": "【28卒】ソフトウエアエンジニア本選考",
+      "deadline": "2028/01/31",
+      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/jobs/2276621309727551488"
+    },
+    {
+      "id": "a1098159675bc20ed2213efc8e5d6942d06a009e747684388363b8517d9186cc",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社PKSHA Technology",
+      "title": "【28卒ソフトウエアエンジニア向け】会社説明会+本選考説明会",
+      "deadline": "2026/08/12",
+      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/events/2229469408824901632"
+    },
+    {
+      "id": "a1a7e8ef7382cf61377b560645144800e2851836862cfc9b3a4eb0d2053e219b",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社PKSHA Technology",
+      "title": "【PKSHA27卒】アルゴリズムエンジニア本選考",
+      "deadline": "2027/12/31",
+      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/jobs/2146137580297723904"
+    },
+    {
+      "id": "8a93fe0cf1ab3fd8f27dfb5fe7342ff12ccd6ddbd9c8cc58fca0c90ec7095ee1",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社PKSHA Technology",
+      "title": "【PKSHA28ビジネス総合職向け】会社説明会+本選考説明会",
+      "deadline": "2026/08/13",
+      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/events/2253771816179884032"
+    },
+    {
+      "id": "c44f04fab4b594d6c235959a0c0f1fd0f3d02ab58ce8eda0ef7bb40bb073d01a",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社PKSHA Technology",
+      "title": "【PKSHA28卒】長期就業型インターン_アルゴリズムエンジニア/データサイエンティスト",
+      "deadline": "2027/12/31",
+      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/jobs/2217577703646294016"
+    },
+    {
+      "id": "4e4e11aed3bdf8e213fc6a01ea5dde6c9627bfe9cfceb07a3de7e79195de5f24",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社PKSHA Technology",
+      "title": "【PKSHA28卒】長期就業型インターンシップ(AI SaaS事業)_ソフトウエアエンジニア",
+      "deadline": "2028/01/31",
+      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/jobs/2208177887521574912"
+    },
+    {
+      "id": "038803ec4cf830a1c9a1271b71a9a3b4109900cf16435da77c2783fff9bdce47",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社PKSHA Technology",
+      "title": "【PKSHA28卒】長期就業型インターンシップ(Solution事業)_ソフトウエアエンジニア",
+      "deadline": "2028/01/31",
+      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/jobs/2208160976459796480"
+    },
+    {
+      "id": "6696603cacb2f71d112681a80a33089ac619477fcd499ef84085c6e14fb58a0a",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社PKSHA Technology",
+      "title": "【一期生募集開始!】28新卒_ビジネス総合職_本選考",
+      "deadline": "2027/12/31",
+      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/jobs/2253755041951809536/apply"
+    },
+    {
+      "id": "a24f01300838f1f8c5ec1dd583fa1f4f1450ff88c7604d48fa4362a5ba053eae",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社PKSHA Technology",
+      "title": "【新卒向け】会社説明会+VPoE座談会|AE/SWEのVPoEに直接質問できる",
+      "deadline": "2026/11/19",
+      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/events/2087452918357729280"
+    },
+    {
+      "id": "6eefa51ca74dbd764ded3f29e485b16944b71d92313860ad7237e4697a297ae1",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社Relic",
+      "title": "ぜひ参加してほしい!新規事業開発のRelic【28卒|特別オンライン会社説明会】- 現役エンジニアに直接質問OK👍",
+      "deadline": "2027/06/30",
+      "detailUrl": "https://forms.gle/HShZJHRZRDqEfU4T7"
+    },
+    {
+      "id": "8877dca6ad5d6fc1c16e66b7069c679c94925696fb68c9537d4cbe9b8099be22",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ドワンゴ",
+      "title": "【全学年対象】1日で視野がグッと広がるドワンゴ夏のオープンカンパニー【オンライン・オフライン開催】",
+      "deadline": "2026/09/17",
+      "detailUrl": "https://dwango.snar.jp/entry.aspx?entryid=af4f9634-9e75-4f6d-8dde-2ac976adfa88"
+    },
+    {
+      "id": "76bee0bc01733f11ae1c2e9031ee6e6432d69733945fa58ef191a26182197be6",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ネットドリーマーズ",
+      "title": "🌱\n★残枠わずか★【MIXIグループ】1Day :netkeibaの現場でコーディング体験",
+      "deadline": "2026/08/28",
+      "detailUrl": "https://job.mynavi.jp/28/pc/corpinfo/displaySeminarList/index?corpId=218401"
+    },
+    {
+      "id": "4a326acb874319833cbba3ecdd3fc708ec4fd2a26272a224ac429851e549c7c0",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社フィックスターズ",
+      "title": "15days 実践型インターンシップ",
+      "deadline": "2026/09/30",
+      "detailUrl": "https://www.fixstars.com/ja/recruit/internship"
+    },
+    {
+      "id": "4b066c8934923354e7684ba5a18c880ce28016f0a1e72f04881659d305079c54",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社マネーフォワード",
+      "title": "※追加募集※ 2028年卒 エンジニア職サマーインターンシップ|本選考直結",
+      "deadline": "2026/08/09",
+      "detailUrl": "https://moneyforward-recruit.snar.jp/entry.aspx?entryid=056b2d92-87a8-4214-a422-b94247f09b5f"
+    },
+    {
+      "id": "b64e46482263e102d392648ff4ff2f45a5d81782a4d248c1027fd627754cba7a",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ミラティブ",
+      "title": "【28卒 / 就業型インターン】インフラエンジニア",
+      "deadline": "2026/12/31",
+      "detailUrl": "https://hrmos.co/pages/mirrativ/jobs/2229"
+    },
+    {
+      "id": "32f2c75d53bd17dd356dc695517dee9c32741cb55d69db64ae4280a2b580ea0b",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ミラティブ",
+      "title": "【28卒 / 就業型インターン】ソフトウェアエンジニア(Android / Kotlin)",
+      "deadline": "2026/12/31",
+      "detailUrl": "https://hrmos.co/pages/mirrativ/jobs/2228"
+    },
+    {
+      "id": "fb23fa0e566828668c711f3c4a5a29a396ad2752da26a448bc2f10d8b72cfc25",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ミラティブ",
+      "title": "【28卒 / 就業型インターン】ソフトウェアエンジニア(Unity)",
+      "deadline": "2026/12/31",
+      "detailUrl": "https://hrmos.co/pages/mirrativ/jobs/2230"
+    },
+    {
+      "id": "64d7bdbdde3b37572fca072f0d9320271764b5fb258b746b8d89e126440c3b8c",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ミラティブ",
+      "title": "【28卒 / 就業型インターン】ソフトウェアエンジニア(バックエンド / Go)",
+      "deadline": "2026/12/31",
+      "detailUrl": "https://hrmos.co/pages/mirrativ/jobs/2227"
+    },
+    {
+      "id": "99a7ef4b98a6ca0fed1e802329dfc4431081da0623bc88c16f738c24af671b03",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ヤプリ",
+      "title": "【就業型インターンシップ】インフラエンジニア(SRE)",
+      "deadline": "2026/12/31",
+      "detailUrl": "https://open.talentio.com/r/1/c/yappli/pages/121721"
+    },
+    {
+      "id": "6d67d334a660bfe6e9e024f25c586590308b3205f252f65193193d12cbb8da18",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ヤプリ",
+      "title": "【就業型インターンシップ】サーバーサイドエンジニア",
+      "deadline": "2026/12/31",
+      "detailUrl": "https://open.talentio.com/r/1/c/yappli/pages/121718"
+    },
+    {
+      "id": "be2f1c84fb7923c18498f7608b826029a5f2914361ef80178601d4c2b0beef0b",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ヤプリ",
+      "title": "【就業型インターンシップ】データサイエンティスト",
+      "deadline": "2026/12/31",
+      "detailUrl": "https://open.talentio.com/r/1/c/yappli/pages/109726"
+    },
+    {
+      "id": "a68cd0794857958aca5c68bef5b2f1335a2ad70daacdcdc792c98b611d8bc02d",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ヤプリ",
+      "title": "【就業型インターンシップ】フロントエンドエンジニア",
+      "deadline": "2026/12/31",
+      "detailUrl": "https://open.talentio.com/r/1/c/yappli/pages/121719"
+    },
+    {
+      "id": "96924cd1938845696fe893e8e645ada19d42a9e251a0042123d4ac278b56b252",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ヤプリ",
+      "title": "【就業型インターンシップ】モバイルエンジニア",
+      "deadline": "2026/12/31",
+      "detailUrl": "https://open.talentio.com/r/1/c/yappli/pages/121722"
+    },
+    {
+      "id": "a8d5db6b4399edab670fdb81e8742990521ed9285e5ac8ca45499979dd7159a5",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ユービーセキュア",
+      "title": "1day大阪|「Vex」を使ってホワイトハッカー体験!",
+      "deadline": "2026/08/21",
+      "detailUrl": "https://public.n-ats.hrmos.co/ubsecure/jobs/2229935719111163904?src=2a29780b-43b5-484c-be9d-a51d00b0950e"
+    },
+    {
+      "id": "d0c135c21ebde3644111f9e63ba537bf12575d092f1c650febb213b91b6ed009",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社リクルートホールディングス",
+      "title": "【選考直結型】RECRUIT INTERNSHIP for Data Specialits 2026",
+      "deadline": "2026/11/04 13:00",
+      "detailUrl": "https://krs.bz/rhd-itm/m/rintern_entry2026_ds"
+    },
+    {
+      "id": "46ff70bd53fa42e650c1ef67f21e5dc56abeb88251bd1ad239ff7ef1ca22ced3",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:27:36.630Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "朝日放送テレビ株式会社",
+      "title": "【28卒】テレビ局の技術職って?コンテンツを支えるTechコースの2daysインターン(生成AI/システム構築など)",
+      "deadline": "2026/09/02",
+      "detailUrl": "https://mypage.3010.i-webs.jp/asahi2028/applicant/login/baitai-entry/entrycd/MHS"
+    }
+  ]
+}
