@@ -1,7 +1,125 @@
 {
-  "generatedAt": "2026-08-09T08:33:18.499Z",
+  "generatedAt": "2026-08-09T08:45:20.657Z",
   "retentionDays": 14,
   "items": [
+    {
+      "id": "00049699d535167e39f4d2e9d82ce83ab694aff9ad6cd76560de8feee01849db",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:45:20.657Z",
+      "changedFields": [
+        "title"
+      ],
+      "company": "エキサイト株式会社",
+      "title": "フルリモ★ユーザが利用するプロダクトに携わる1ヶ月(月80時間)就業型インターンシップ|本選考直結【28卒】 (8月〜11月の4ターム開催)",
+      "deadline": "2026/10/09",
+      "detailUrl": "https://info.excite.co.jp/internship/excitech-camp-2026"
+    },
+    {
+      "id": "d93e7e56ce35a958da203f8367befd146801127bd213cec967980eee2b966536",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:45:20.657Z",
+      "changedFields": [
+        "title"
+      ],
+      "company": "カラビナテクノロジー株式会社",
+      "title": "エンジニアアルバイト募集​",
+      "deadline": "2027/03/31",
+      "detailUrl": "https://karabiner-inc.notion.site/078df1bc23864123a6f99222d0494297"
+    },
+    {
+      "id": "96c97061c4500e20578f8e649af96f83d6a6a606d0be672edf933677153b987d",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:45:20.657Z",
+      "changedFields": [
+        "deadline"
+      ],
+      "company": "チームラボ",
+      "title": "[オンライン開催]三井不動産×チームラボ2daysワークショップ事前説明会",
+      "deadline": "2026/09/03 10:00",
+      "detailUrl": "https://open.talentio.com/r/1/c/teamlab/pages/125890/apply"
+    },
+    {
+      "id": "05112536e766d71a2aeca170069d12daae17166ee3c89a71f225035564b9ebe5",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:45:20.657Z",
+      "changedFields": [
+        "deadline"
+      ],
+      "company": "チームラボ",
+      "title": "1日でスマホアプリ開発を体験!1dayハッカソン(Flutter/Android/iOS)",
+      "deadline": "2026/09/24 1:00",
+      "detailUrl": "https://open.talentio.com/r/1/c/teamlab/pages/125859/apply"
+    },
+    {
+      "id": "4e55772959117b974013f1e3a8993945ad556025bc341208e3c8596dd3bde56e",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:45:20.657Z",
+      "changedFields": [
+        "deadline"
+      ],
+      "company": "チームラボ",
+      "title": "三井不動産×チームラボ2daysワークショップ",
+      "deadline": "2026/09/04 3:00",
+      "detailUrl": "https://open.talentio.com/r/1/c/teamlab/pages/125889/apply"
+    },
+    {
+      "id": "89b679dd30fc6b4155f5f26637473932174d1b9718c068c24643d4dbee0a8209",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:45:20.657Z",
+      "changedFields": [
+        "title"
+      ],
+      "company": "ポケットサイン株式会社",
+      "title": "夏季就業型長期インターン!【4週間~/時給1500円~】自社プロダクト・実践で技術を磨こう!Go・React​",
+      "deadline": "2026/09/30",
+      "detailUrl": "https://hrmos.co/pages/pocketsign/jobs/0000112"
+    },
+    {
+      "id": "6eefa51ca74dbd764ded3f29e485b16944b71d92313860ad7237e4697a297ae1",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:45:20.657Z",
+      "changedFields": [
+        "title",
+        "eligibility"
+      ],
+      "company": "株式会社Relic",
+      "title": "ぜひ参加してほしい!新規事業開発のRelic【28卒|特別オンライン会社説明会】- 現役エンジニアに直接質問OK​",
+      "deadline": "2027/06/30",
+      "detailUrl": "https://forms.gle/HShZJHRZRDqEfU4T7"
+    },
+    {
+      "id": "76bee0bc01733f11ae1c2e9031ee6e6432d69733945fa58ef191a26182197be6",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:45:20.657Z",
+      "changedFields": [
+        "title"
+      ],
+      "company": "株式会社ネットドリーマーズ",
+      "title": "★残枠わずか★【MIXIグループ】1Day :netkeibaの現場でコーディング体験",
+      "deadline": "2026/08/28",
+      "detailUrl": "https://job.mynavi.jp/28/pc/corpinfo/displaySeminarList/index?corpId=218401"
+    },
+    {
+      "id": "d0c135c21ebde3644111f9e63ba537bf12575d092f1c650febb213b91b6ed009",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T08:45:20.657Z",
+      "changedFields": [
+        "deadline"
+      ],
+      "company": "株式会社リクルートホールディングス",
+      "title": "【選考直結型】RECRUIT INTERNSHIP for Data Specialits 2026",
+      "deadline": "2026/11/04 4:00",
+      "detailUrl": "https://krs.bz/rhd-itm/m/rintern_entry2026_ds"
+    },
     {
       "id": "e2ce672c6ade006e4283f3aac60b0264feacb4d065b2d075fa751fab39c20565",
       "changeType": "new",
