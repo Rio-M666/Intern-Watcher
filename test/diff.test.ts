@@ -90,3 +90,33 @@ test("assertPlausibleCount rejects an abnormal decrease", () => {
   assert.doesNotThrow(() => assertPlausibleCount(20, 12));
   assert.throws(() => assertPlausibleCount(0, 0), /0件/);
 });
+
+test("diffJobs ignores display-only emoji, invisible character and whitespace changes", () => {
+  const previous: CurrentData = {
+    generatedAt: "2026-08-08T00:00:00.000Z",
+    sourceUrl: "https://example.notion.site/db",
+    jobs: [
+      record({
+        contentHash: "legacy-hash",
+        title: "開発  🚀  インターン\u200B",
+        eligibility: "大学生\n\n大学院生✨",
+      }),
+    ],
+  };
+  const result = diffJobs(
+    [
+      job({
+        contentHash: "stable-hash",
+        title: "開発\nインターン",
+        eligibility: "大学生 大学院生",
+      }),
+    ],
+    previous,
+    NOW,
+    "https://example.notion.site/db",
+  );
+
+  assert.equal(result.unchangedCount, 1);
+  assert.equal(result.updatedCount, 0);
+  assert.deepEqual(result.feedEvents, []);
+});

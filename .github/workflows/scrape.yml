@@ -31,6 +31,12 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
+      - name: Typecheck
+        run: npm run typecheck
+
+      - name: Test
+        run: npm test
+
       - name: Install Chromium
         run: npx playwright install chromium --with-deps
 
@@ -57,6 +63,8 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: scraper-debug-${{ github.run_id }}
-          path: debug/
+          path: |
+            debug/
+            data/status.json
           if-no-files-found: ignore
           retention-days: 7

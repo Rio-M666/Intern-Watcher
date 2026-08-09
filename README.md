@@ -2,7 +2,7 @@
 
 公開されている「魔法のスプレッドシート2026」のインターン情報を毎日取得し、前回との差分をGitHub上のJSONとして公開するためのスクレイパーです。OpenAI API、ログイン、CAPTCHA回避、stealth pluginは使用しません。
 
-Notion URLは固定せず、実行のたびに[公式サイト](https://magic-spreadsheets.github.io/)から「2026」と書かれた公開Notionリンクを発見します。その後、公開データベースの「インターン」ビューをPlaywright Chromiumで開き、virtualized renderingを考慮してスクロールしながら行を収集します。
+Notion URLは固定せず、実行のたびに[公式サイト](https://magic-spreadsheets.github.io/)から「2026」と書かれた公開Notionリンクを発見します。その後、公開データベースの「インターン」ビューをPlaywright Chromiumで開き、virtualized renderingを考慮してスクロールしながら行を収集します。browser contextは`Asia/Tokyo`タイムゾーンで動作するため、UTCのGitHub Actions上でもNotionの日付時刻を日本時間として取得します。
 
 ## セットアップ
 
@@ -36,8 +36,9 @@ npm test
 - `workflow_dispatch`からの手動実行
 - 毎日07:17 Asia/Tokyo（cronは前日22:17 UTC）
 - `ubuntu-latest`、Node.js 22、Chromium
+- スクレイピング前に型チェックと単体テストを実行
 - 成功時に`data/`の変更を`GITHUB_TOKEN`でcommit / push
-- 失敗時に`debug/`をActions artifactとして7日間保存
+- 失敗時に`debug/`と`data/status.json`をActions artifactとして7日間保存
 - 30分のジョブタイムアウトと重複実行防止
 
 リポジトリやブランチの保護設定によってActionsから直接pushできない場合は、対象ブランチへのGitHub Actionsのpushを許可するか、PR作成型の運用へ変更してください。
@@ -72,6 +73,8 @@ npm test
 ```
 
 `detailUrl`があればtracking parameterとfragmentを除いたcanonical URLのSHA-256を`id`にします。なければ正規化した`company`、`title`、`deadline`を使います。`contentHash`は求人内容だけから計算し、`generatedAt`、`firstSeenAt`、`lastSeenAt`は含めません。
+
+JSONに保存する`company`、`title`、`eligibility`などの表示値は維持しつつ、`contentHash`の計算時だけ絵文字、variation selector、zero-width文字などの不可視制御文字を除去し、改行と連続空白を単一の空白へ揃えます。このため表示上意味のない揺れでは`updated`にならず、タイトル、締切、募集要件などの実質的な変更は引き続き検出されます。
 
 ### `data/feed.json`
 
@@ -112,6 +115,7 @@ Notion側のカラム表記と出力フィールドの対応は`src/normalize.ts
 - `debug/screenshot.png`: 失敗時点の画面
 - `debug/page.html`: 失敗時点のDOM
 - `debug/error.txt`: エラー内容
+- `data/status.json`: 実行時刻と失敗理由（Actions artifactにも含まれます）
 
 Actionsでは失敗したrunのArtifactsから取得できます。ローカルでは`debug/page.html`でヘッダー名と`.notion-table-view-*`要素を確認し、次の順で調査してください。
 

@@ -98,17 +98,35 @@ const readUrl = (row: RawRow, aliases: string[]): string | null => {
 
 const sha256 = (value: string): string => createHash("sha256").update(value).digest("hex");
 
-const stableJson = (content: JobContent): string =>
-  JSON.stringify({
-    company: content.company,
-    title: content.title,
-    status: content.status,
-    deadline: content.deadline,
-    category: content.category,
-    eligibility: content.eligibility,
-    detailUrl: content.detailUrl,
-    sourceUrl: content.sourceUrl,
-  });
+const EMOJI_PATTERN =
+  /(?:[#*0-9]\uFE0F?\u20E3|[\p{Regional_Indicator}\p{Emoji_Presentation}\p{Extended_Pictographic}\p{Emoji_Modifier}])/gu;
+const INVISIBLE_CHARACTER_PATTERN =
+  /[\u00AD\u061C\u180E\u200B-\u200F\u202A-\u202E\u2060-\u206F\uFE00-\uFE0F\uFEFF\u{E0000}-\u{E007F}\u{E0100}-\u{E01EF}]/gu;
+
+export const normalizeContentHashText = (value: string): string =>
+  value
+    .normalize("NFKC")
+    .replace(EMOJI_PATTERN, "")
+    .replace(INVISIBLE_CHARACTER_PATTERN, "")
+    .replace(/\s+/gu, " ")
+    .trim();
+
+export const normalizeContentHashValue = (value: string | null): string | null =>
+  value === null ? null : normalizeContentHashText(value);
+
+export const createContentHash = (content: JobContent): string =>
+  sha256(
+    JSON.stringify({
+      company: normalizeContentHashText(content.company),
+      title: normalizeContentHashText(content.title),
+      status: normalizeContentHashValue(content.status),
+      deadline: normalizeContentHashValue(content.deadline),
+      category: normalizeContentHashValue(content.category),
+      eligibility: normalizeContentHashValue(content.eligibility),
+      detailUrl: normalizeContentHashValue(content.detailUrl),
+      sourceUrl: normalizeContentHashText(content.sourceUrl),
+    }),
+  );
 
 export function normalizeRow(row: RawRow, sourceUrl: string): NormalizedJob | null {
   const company = readText(row, COLUMN_ALIASES.company);
@@ -134,11 +152,11 @@ export function normalizeRow(row: RawRow, sourceUrl: string): NormalizedJob | nu
   };
   const identity = detailUrl
     ? `url:${detailUrl}`
-    : `fallback:${normalizeText(company).toLowerCase()}\u001f${normalizeText(title).toLowerCase()}\u001f${normalizeText(deadline ?? "").toLowerCase()}`;
+    : `fallback:${normalizeContentHashText(company).toLowerCase()}\u001f${normalizeContentHashText(title).toLowerCase()}\u001f${normalizeContentHashText(deadline ?? "").toLowerCase()}`;
 
   return {
     id: sha256(identity),
-    contentHash: sha256(stableJson(content)),
+    contentHash: createContentHash(content),
     ...content,
   };
 }

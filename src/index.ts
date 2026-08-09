@@ -61,6 +61,7 @@ async function main(): Promise<void> {
     browser = await chromium.launch({ headless: true });
     const context = await browser.newContext({
       locale: "ja-JP",
+      timezoneId: "Asia/Tokyo",
       viewport: { width: 1440, height: 900 },
     });
     page = await context.newPage();

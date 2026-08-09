@@ -8,11 +8,15 @@ import {
   type JobRecord,
   type NormalizedJob,
 } from "./types.js";
+import { normalizeContentHashValue } from "./normalize.js";
 
 export const FEED_RETENTION_DAYS = 14;
 
 const changedFields = (previous: JobRecord, current: NormalizedJob): ContentField[] =>
-  CONTENT_FIELDS.filter((field) => previous[field] !== current[field]);
+  CONTENT_FIELDS.filter(
+    (field) =>
+      normalizeContentHashValue(previous[field]) !== normalizeContentHashValue(current[field]),
+  );
 
 const populatedFields = (job: NormalizedJob): ContentField[] =>
   CONTENT_FIELDS.filter((field) => job[field] !== null && job[field] !== "");
@@ -49,6 +53,7 @@ export function diffJobs(
 
   for (const job of jobs) {
     const oldJob = previousById.get(job.id);
+    const fields = oldJob ? changedFields(oldJob, job) : [];
     const record: JobRecord = {
       ...job,
       firstSeenAt: oldJob?.firstSeenAt ?? generatedAt,
@@ -59,9 +64,9 @@ export function diffJobs(
     if (!oldJob) {
       newCount += 1;
       feedEvents.push(toFeedItem(record, "new", generatedAt, populatedFields(job)));
-    } else if (oldJob.contentHash !== job.contentHash) {
+    } else if (oldJob.contentHash !== job.contentHash && fields.length > 0) {
       updatedCount += 1;
-      feedEvents.push(toFeedItem(record, "updated", generatedAt, changedFields(oldJob, job)));
+      feedEvents.push(toFeedItem(record, "updated", generatedAt, fields));
     } else {
       unchangedCount += 1;
     }
