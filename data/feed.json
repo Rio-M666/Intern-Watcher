@@ -1,7 +1,59 @@
 {
-  "generatedAt": "2026-08-09T08:45:20.657Z",
+  "generatedAt": "2026-08-09T09:08:01.399Z",
   "retentionDays": 14,
   "items": [
+    {
+      "id": "96c97061c4500e20578f8e649af96f83d6a6a606d0be672edf933677153b987d",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T09:08:01.399Z",
+      "changedFields": [
+        "deadline"
+      ],
+      "company": "チームラボ",
+      "title": "[オンライン開催]三井不動産×チームラボ2daysワークショップ事前説明会",
+      "deadline": "2026/09/03 19:00",
+      "detailUrl": "https://open.talentio.com/r/1/c/teamlab/pages/125890/apply"
+    },
+    {
+      "id": "05112536e766d71a2aeca170069d12daae17166ee3c89a71f225035564b9ebe5",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T09:08:01.399Z",
+      "changedFields": [
+        "deadline"
+      ],
+      "company": "チームラボ",
+      "title": "1日でスマホアプリ開発を体験!1dayハッカソン(Flutter/Android/iOS)",
+      "deadline": "2026/09/24 10:00",
+      "detailUrl": "https://open.talentio.com/r/1/c/teamlab/pages/125859/apply"
+    },
+    {
+      "id": "4e55772959117b974013f1e3a8993945ad556025bc341208e3c8596dd3bde56e",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T09:08:01.399Z",
+      "changedFields": [
+        "deadline"
+      ],
+      "company": "チームラボ",
+      "title": "三井不動産×チームラボ2daysワークショップ",
+      "deadline": "2026/09/04 12:00",
+      "detailUrl": "https://open.talentio.com/r/1/c/teamlab/pages/125889/apply"
+    },
+    {
+      "id": "d0c135c21ebde3644111f9e63ba537bf12575d092f1c650febb213b91b6ed009",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-09T09:08:01.399Z",
+      "changedFields": [
+        "deadline"
+      ],
+      "company": "株式会社リクルートホールディングス",
+      "title": "【選考直結型】RECRUIT INTERNSHIP for Data Specialits 2026",
+      "deadline": "2026/11/04 13:00",
+      "detailUrl": "https://krs.bz/rhd-itm/m/rintern_entry2026_ds"
+    },
     {
       "id": "00049699d535167e39f4d2e9d82ce83ab694aff9ad6cd76560de8feee01849db",
       "changeType": "updated",
