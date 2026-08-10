@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-09T22:49:19.739Z",
+  "generatedAt": "2026-08-10T22:55:56.674Z",
   "retentionDays": 14,
   "items": [
+    {
+      "id": "e6b1d673b554e018b921b2efb5d478e2fe7dd3c56bd2cf36e9a362af49f0975e",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-10T22:55:56.674Z",
+      "updatedAt": "2026-08-10T22:55:56.674Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社SI&C",
+      "title": "<報酬あり/選考直結>AI駆動開発で実務レベルの価値創出に挑戦しよう! ~アジャイル開発でお客様の要望に応え、AI時代のエンジニアとして成長する~│アクセンチュアG",
+      "deadline": "2026/08/16",
+      "detailUrl": "https://mypage.3030.i-webs.jp/siac2028/applicant/entry/baitai-entry/entrycd/MHS"
+    },
     {
       "id": "96c97061c4500e20578f8e649af96f83d6a6a606d0be672edf933677153b987d",
       "changeType": "updated",
