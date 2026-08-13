@@ -1,7 +1,46 @@
 {
-  "generatedAt": "2026-08-11T23:01:55.493Z",
+  "generatedAt": "2026-08-13T23:00:55.375Z",
   "retentionDays": 14,
   "items": [
+    {
+      "id": "f06beca02e7c559f0981f92ddd5a8ec9c93e85f570b2a164d5ffcc80beeec498",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-13T23:00:55.375Z",
+      "updatedAt": "2026-08-13T23:00:55.375Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ニーリー",
+      "title": "実践就業型!28卒向け長期エンジニアインターン",
+      "deadline": null,
+      "detailUrl": "https://jobs.nealle.com/work/products"
+    },
+    {
+      "id": "ff4313059d046f486b92d04065362db72028c89f13684428b24dc10450095ae6",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-13T23:00:55.375Z",
+      "updatedAt": "2026-08-13T23:00:55.375Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社ワンキャリア",
+      "title": "【28卒内定直結型インターン】ONE CAREER AI Hackathon Internship",
+      "deadline": "2026/09/19",
+      "detailUrl": "https://onecareer-recruit-engineer.notion.site/ONE-CAREER-Engineer-Entrance-Book-7ada551c8efa4ea99434f8f3ae189fb2"
+    },
     {
       "id": "8f96330f32fa625262f50cefbd668c80905e3b292db867f2dc98cf7385192b07",
       "changeType": "new",
