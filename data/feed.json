@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-08-13T23:00:55.375Z",
+  "generatedAt": "2026-08-14T22:39:29.395Z",
   "retentionDays": 14,
   "items": [
+    {
+      "id": "3432a29fc07664b7d592088776d31fd153fbd5bde48b9031fddba6d44ebf4c7d",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-14T22:39:29.395Z",
+      "updatedAt": "2026-08-14T22:39:29.395Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社羅針盤",
+      "title": "【長期インターン】 ソフトウェアエンジニア",
+      "deadline": "2026/09/30",
+      "detailUrl": "https://compasscorp.jp/"
+    },
     {
       "id": "f06beca02e7c559f0981f92ddd5a8ec9c93e85f570b2a164d5ffcc80beeec498",
       "changeType": "new",
