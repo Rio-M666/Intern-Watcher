@@ -1,7 +1,40 @@
 {
-  "generatedAt": "2026-08-14T22:39:29.395Z",
+  "generatedAt": "2026-08-18T22:40:40.246Z",
   "retentionDays": 14,
   "items": [
+    {
+      "id": "6d6a8bce603d782e7d8a3627398f5b4c715fca247d4c90daf75621cf9f2fa508",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-18T22:40:40.246Z",
+      "updatedAt": "2026-08-18T22:40:40.246Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社Acompany",
+      "title": "【大阪開催】第3回 Confidential Computing x LLM Ideathon",
+      "deadline": "2026/09/04",
+      "detailUrl": "https://www.acompany.tech/"
+    },
+    {
+      "id": "b99042090ae506e1a03a9264f4450195d4b2edfa63ddba121f9454457cdfdfa4",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-11T23:01:55.493Z",
+      "updatedAt": "2026-08-18T22:40:40.246Z",
+      "changedFields": [
+        "deadline"
+      ],
+      "company": "株式会社SI&C",
+      "title": "<報酬あり/選考直結>AI駆動開発で実務レベルの価値創出に挑戦しよう! ~アジャイル開発でお客様の要望に応え、AI時代のエンジニアとして成長する~│アクセンチュアG",
+      "deadline": "2026/08/30",
+      "detailUrl": "https://www.siac.co.jp/"
+    },
     {
       "id": "3432a29fc07664b7d592088776d31fd153fbd5bde48b9031fddba6d44ebf4c7d",
       "changeType": "new",
