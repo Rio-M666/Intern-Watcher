@@ -1,7 +1,60 @@
 {
-  "generatedAt": "2026-08-19T22:40:10.843Z",
+  "generatedAt": "2026-08-21T22:40:23.642Z",
   "retentionDays": 14,
   "items": [
+    {
+      "id": "877d319acccc18681a30a89c59013e728289b88f8bab4dfb01b3e41b9d72a930",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-21T22:40:23.642Z",
+      "updatedAt": "2026-08-21T22:40:23.642Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "ファインディ株式会社",
+      "title": "テック文化祭 2026 by Findy Student",
+      "deadline": "2026/09/26",
+      "detailUrl": "https://student.findy-code.io/events/b0u9w8WfRTmI4OFWEm188Q?fr=magic"
+    },
+    {
+      "id": "8a93fe0cf1ab3fd8f27dfb5fe7342ff12ccd6ddbd9c8cc58fca0c90ec7095ee1",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-08-21T22:40:23.642Z",
+      "changedFields": [
+        "deadline"
+      ],
+      "company": "株式会社PKSHA Technology",
+      "title": "【PKSHA28ビジネス総合職向け】会社説明会+本選考説明会",
+      "deadline": "2026/09/29",
+      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/events/2253771816179884032"
+    },
+    {
+      "id": "df6ee90d98c3c5ccefa3b53e699cb3b2dbe5b708f5a2900b56dea9923851bc94",
+      "changeType": "new",
+      "firstSeenAt": "2026-08-21T22:40:23.642Z",
+      "updatedAt": "2026-08-21T22:40:23.642Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社いい生活",
+      "title": "28卒エンジニア【東証スタンダード上場/不動産向けSaaS】自社サービス企画~開発",
+      "deadline": "2028/03/31",
+      "detailUrl": "https://www.e-seikatsu.info/careers"
+    },
     {
       "id": "6d6a8bce603d782e7d8a3627398f5b4c715fca247d4c90daf75621cf9f2fa508",
       "changeType": "new",
