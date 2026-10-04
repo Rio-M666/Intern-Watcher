@@ -1,31 +1,12 @@
 {
-  "generatedAt": "2026-09-12T23:59:40.873Z",
+  "generatedAt": "2026-10-04T00:36:35.960Z",
   "retentionDays": 14,
   "items": [
     {
-      "id": "2be21d6f8e9a809e81986c89d07a0f7ff0a8345fbcce71d27a993ffa0eb585d1",
+      "id": "51b7a1e3ad52d8b4439f858ebb1840d3691172dc7bac4e7025ced333797623ae",
       "changeType": "new",
-      "firstSeenAt": "2026-09-12T23:59:40.873Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
-      "changedFields": [
-        "company",
-        "title",
-        "status",
-        "category",
-        "eligibility",
-        "detailUrl",
-        "sourceUrl"
-      ],
-      "company": "Digital Experts株式会社",
-      "title": "ソフトウェアエンジニアインターン(1ヶ月〜)",
-      "deadline": null,
-      "detailUrl": "https://d-experts.com/"
-    },
-    {
-      "id": "e295e521f47262e4af15cbab083edf2dc0f05b01a7152070d2d881d9547c0b54",
-      "changeType": "new",
-      "firstSeenAt": "2026-09-12T23:59:40.873Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
+      "firstSeenAt": "2026-10-04T00:36:35.960Z",
+      "updatedAt": "2026-10-04T00:36:35.960Z",
       "changedFields": [
         "company",
         "title",
@@ -36,16 +17,16 @@
         "detailUrl",
         "sourceUrl"
       ],
-      "company": "カラビナテクノロジー株式会社",
-      "title": "カワゴエソン2026夏",
-      "deadline": "2026/09/15",
-      "detailUrl": "https://www.craftstadium.com/hackathon/kawagoethon2026"
+      "company": "freee",
+      "title": "【28卒】本選考",
+      "deadline": "2027/01/31",
+      "detailUrl": "https://public.n-ats.hrmos.co/freee/jobs/2305530533299326976?src=70d8d549-9145-4041-8024-ce9dfa43fac8"
     },
     {
-      "id": "79d6b30391f265d7ffdf6295657f5bfddf5e67a5e9cee919f88ab64a41569bcb",
+      "id": "0c92e001100b0699323c6c5f6752d88f7902b08f0d40fda9af6043d1f0584fe7",
       "changeType": "new",
-      "firstSeenAt": "2026-09-12T23:59:40.873Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
+      "firstSeenAt": "2026-10-04T00:36:35.960Z",
+      "updatedAt": "2026-10-04T00:36:35.960Z",
       "changedFields": [
         "company",
         "title",
@@ -56,181 +37,67 @@
         "detailUrl",
         "sourceUrl"
       ],
-      "company": "フォルシア株式会社",
-      "title": "28卒1dayインターン【微経験大歓迎】webアプリを完成させ、一緒にコードが動く楽しさを体験しませんか?",
-      "deadline": "2026/10/12",
-      "detailUrl": "https://www.forcia.com/"
+      "company": "クリエーションライン株式会社",
+      "title": "【3daysインターン】これからの開発スタイルを経験する - AI駆動開発体験-",
+      "deadline": "2026/11/23",
+      "detailUrl": "https://www.career-cloud.asia/28/entry/job/offer/creationline27/detail/447"
     },
     {
-      "id": "89b679dd30fc6b4155f5f26637473932174d1b9718c068c24643d4dbee0a8209",
-      "changeType": "updated",
-      "firstSeenAt": "2026-08-09T08:27:36.630Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
+      "id": "a1ede3908442a4c8b0184d842612f6575ce214cc8bfa0966672e1e6900fb3b14",
+      "changeType": "new",
+      "firstSeenAt": "2026-10-04T00:36:35.960Z",
+      "updatedAt": "2026-10-04T00:36:35.960Z",
       "changedFields": [
-        "title"
+        "company",
+        "title",
+        "status",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
       ],
       "company": "ポケットサイン株式会社",
-      "title": "就業型長期インターン!【4週間~/時給1500円~】自社プロダクト・実践で技術を磨こう!Go・React​",
-      "deadline": "2026/09/30",
-      "detailUrl": "https://hrmos.co/pages/pocketsign/jobs/0000112"
-    },
-    {
-      "id": "f055875fd8c9e73eccbef3b1a321dca40ea655b83533090eed59c2dcd964195d",
-      "changeType": "new",
-      "firstSeenAt": "2026-09-12T23:59:40.873Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
-      "changedFields": [
-        "company",
-        "title",
-        "status",
-        "deadline",
-        "category",
-        "eligibility",
-        "detailUrl",
-        "sourceUrl"
-      ],
-      "company": "株式会社DeepX",
-      "title": "東京大学発ロボティクス・AIスタートアップで実践!2daysワークショップ",
-      "deadline": "2026/10/12",
-      "detailUrl": "https://www.deepx.co.jp/ja"
-    },
-    {
-      "id": "30fd37a0d2e96c8f2036bc82120b1531bc8a6f5ec6750970aa83b23c9a1c09bc",
-      "changeType": "new",
-      "firstSeenAt": "2026-09-12T23:59:40.873Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
-      "changedFields": [
-        "company",
-        "title",
-        "status",
-        "deadline",
-        "category",
-        "eligibility",
-        "detailUrl",
-        "sourceUrl"
-      ],
-      "company": "株式会社MIXI",
-      "title": "【1day競技型技術イベント】 Git Challenge #16",
-      "deadline": "2026/09/14",
-      "detailUrl": "https://mixi-recruit.snar.jp/jobboard/detail.aspx?id=-W4UWE5-E3pQCe2ronaA_A"
-    },
-    {
-      "id": "966a0dbb3666d7b98110d775d04d65f610624c6f27fe8d039397c2701349faa1",
-      "changeType": "new",
-      "firstSeenAt": "2026-09-12T23:59:40.873Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
-      "changedFields": [
-        "company",
-        "title",
-        "status",
-        "category",
-        "eligibility",
-        "detailUrl",
-        "sourceUrl"
-      ],
-      "company": "株式会社MIXI",
-      "title": "【本選考直結】就業型インターン Dive into MIXI 2026‐2027 冬・春季",
+      "title": "就業型長期インターン\n【4週間~/時給1500円~】\n自社プロダクト・実践で技術を磨こう!Go・React​",
       "deadline": null,
-      "detailUrl": "https://mixi-recruit.snar.jp/index.aspx"
+      "detailUrl": "https://pocketsign.co.jp/"
     },
     {
-      "id": "b789b223a5988cecc8b0097209f7eaf207dd1536f69191525a8d8bd637137c7c",
+      "id": "9b50c8c7fde7eb1ca883c53ab63e146fac1c04017c7adf43dc5ae3ba9b7b4d75",
       "changeType": "new",
-      "firstSeenAt": "2026-09-12T23:59:40.873Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
+      "firstSeenAt": "2026-10-04T00:36:35.960Z",
+      "updatedAt": "2026-10-04T00:36:35.960Z",
       "changedFields": [
         "company",
         "title",
         "status",
-        "deadline",
         "category",
         "eligibility",
         "detailUrl",
         "sourceUrl"
       ],
-      "company": "株式会社PKSHA Technology",
-      "title": "【28卒】ソフトウエアエンジニア本選考",
-      "deadline": "2028/01/31",
-      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/jobs/2276621309727551488"
+      "company": "株式会社B-Roca",
+      "title": "【就業型長期インターン】■ AIソリューションセールス",
+      "deadline": null,
+      "detailUrl": "https://www.broca.co.jp/"
     },
     {
-      "id": "9a57a242645511c48c73ae86c972b7f172b8f461e7e2cd9c7ebbb34b21b37eed",
-      "changeType": "new",
-      "firstSeenAt": "2026-09-12T23:59:40.873Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
-      "changedFields": [
-        "company",
-        "title",
-        "status",
-        "deadline",
-        "category",
-        "eligibility",
-        "detailUrl",
-        "sourceUrl"
-      ],
-      "company": "株式会社PKSHA Technology",
-      "title": "【28卒アルゴリズムエンジニア向け】会社説明会+本選考説明会",
-      "deadline": "2026/09/28",
-      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/events/2298437307766448128"
-    },
-    {
-      "id": "cedcf2cc7021d687172356ec1df6b04473485ff6bd53a822f829c970b2a96357",
-      "changeType": "new",
-      "firstSeenAt": "2026-09-12T23:59:40.873Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
-      "changedFields": [
-        "company",
-        "title",
-        "status",
-        "deadline",
-        "category",
-        "eligibility",
-        "detailUrl",
-        "sourceUrl"
-      ],
-      "company": "株式会社PKSHA Technology",
-      "title": "【PKSHA28卒】アルゴリズムエンジニア本選考",
-      "deadline": "2028/08/31",
-      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/jobs/2263557677860503552"
-    },
-    {
-      "id": "038803ec4cf830a1c9a1271b71a9a3b4109900cf16435da77c2783fff9bdce47",
-      "changeType": "new",
-      "firstSeenAt": "2026-09-12T23:59:40.873Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
-      "changedFields": [
-        "company",
-        "title",
-        "status",
-        "deadline",
-        "category",
-        "eligibility",
-        "detailUrl",
-        "sourceUrl"
-      ],
-      "company": "株式会社PKSHA Technology",
-      "title": "【PKSHA28卒】長期就業型インターンシップ(Solution事業)_ソフトウエアエンジニア",
-      "deadline": "2028/01/31",
-      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/jobs/2208160976459796480"
-    },
-    {
-      "id": "b99042090ae506e1a03a9264f4450195d4b2edfa63ddba121f9454457cdfdfa4",
+      "id": "8a93fe0cf1ab3fd8f27dfb5fe7342ff12ccd6ddbd9c8cc58fca0c90ec7095ee1",
       "changeType": "updated",
-      "firstSeenAt": "2026-08-11T23:01:55.493Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
+      "firstSeenAt": "2026-08-09T08:27:36.630Z",
+      "updatedAt": "2026-10-04T00:36:35.960Z",
       "changedFields": [
         "deadline"
       ],
-      "company": "株式会社SI&C",
-      "title": "<報酬あり/選考直結>AI駆動開発で実務レベルの価値創出に挑戦しよう! ~アジャイル開発でお客様の要望に応え、AI時代のエンジニアとして成長する~│アクセンチュアG",
-      "deadline": "2026/09/06",
-      "detailUrl": "https://www.siac.co.jp/"
+      "company": "株式会社PKSHA Technology",
+      "title": "【PKSHA28ビジネス総合職向け】会社説明会+本選考説明会",
+      "deadline": "2026/10/21",
+      "detailUrl": "https://public.n-ats.hrmos.co/pkshatech/events/2253771816179884032"
     },
     {
-      "id": "a958b51492ac928029145911582da8df6784c29ba14c9e1463dbd10c01eafb12",
+      "id": "3ee3da115d4ae8027df9765e940a8a077c1182e295e7c1efac7753cc349686a9",
       "changeType": "new",
-      "firstSeenAt": "2026-09-12T23:59:40.873Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
+      "firstSeenAt": "2026-10-04T00:36:35.960Z",
+      "updatedAt": "2026-10-04T00:36:35.960Z",
       "changedFields": [
         "company",
         "title",
@@ -240,75 +107,58 @@
         "detailUrl",
         "sourceUrl"
       ],
-      "company": "株式会社サイバーエース",
-      "title": "CARU ミッション型インターン※28・27卒対象",
+      "company": "株式会社TOKIUM",
+      "title": "【28卒】AI×フルスタックエンジニア 本選考",
       "deadline": null,
-      "detailUrl": "https://cyberace.co.jp/"
+      "detailUrl": "https://engineer.recruit.tokium.jp/"
+    },
+    {
+      "id": "98a6f7ce8b8e74293d2cb9ba0704c0084a46e8177dd1b13cc9d4d73d3c3d5159",
+      "changeType": "new",
+      "firstSeenAt": "2026-10-04T00:36:35.960Z",
+      "updatedAt": "2026-10-04T00:36:35.960Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "株式会社サイバーエージェント",
+      "title": "【28卒】本選考",
+      "deadline": null,
+      "detailUrl": "https://www.cyberagent.co.jp/careers/special/students/tech"
+    },
+    {
+      "id": "286e2348349227e9b78fefc8764851eaa12b2c5783195bea92dbeaa774f8fcb6",
+      "changeType": "updated",
+      "firstSeenAt": "2026-08-11T23:01:55.493Z",
+      "updatedAt": "2026-10-04T00:36:35.960Z",
+      "changedFields": [
+        "title",
+        "status",
+        "deadline",
+        "eligibility"
+      ],
+      "company": "株式会社ネットドリーマーズ",
+      "title": "【MIXIグループ】28卒早期選考会社説明会",
+      "deadline": "2026/11/30",
+      "detailUrl": "https://www.netdreamers.co.jp/"
     },
     {
       "id": "0d532aeff0ba2794c6bf34f47df2e143dad3f03afa8ba8f06217bcb4221071ba",
       "changeType": "updated",
       "firstSeenAt": "2026-08-11T23:01:55.493Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
+      "updatedAt": "2026-10-04T00:36:35.960Z",
       "changedFields": [
         "deadline"
       ],
       "company": "株式会社マイナビ",
       "title": "クラウドエンジニア体験プログラム",
-      "deadline": "2026/09/03",
+      "deadline": "2026/10/01",
       "detailUrl": "https://axol.jp/zw/s/mynavi_28/entry_5616270015"
-    },
-    {
-      "id": "25488c68d8b0fae40ded49ffa6a2fb57f96f2458df06b4df94603047c42c8cd2",
-      "changeType": "new",
-      "firstSeenAt": "2026-09-12T23:59:40.873Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
-      "changedFields": [
-        "company",
-        "title",
-        "status",
-        "deadline",
-        "category",
-        "eligibility",
-        "detailUrl",
-        "sourceUrl"
-      ],
-      "company": "株式会社マネーフォワード",
-      "title": "2028年卒 研究職|本選考",
-      "deadline": "2026/12/20",
-      "detailUrl": "https://recruit.moneyforward.com/students"
-    },
-    {
-      "id": "a8d5db6b4399edab670fdb81e8742990521ed9285e5ac8ca45499979dd7159a5",
-      "changeType": "updated",
-      "firstSeenAt": "2026-08-09T08:27:36.630Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
-      "changedFields": [
-        "deadline"
-      ],
-      "company": "株式会社ユービーセキュア",
-      "title": "1day大阪|「Vex」を使ってホワイトハッカー体験!",
-      "deadline": "2026/08/25",
-      "detailUrl": "https://public.n-ats.hrmos.co/ubsecure/jobs/2229935719111163904?src=2a29780b-43b5-484c-be9d-a51d00b0950e"
-    },
-    {
-      "id": "893411e1279ad01933e7d02fa1f5b4791f170ebb14f90c1a6c3745b486d21dfc",
-      "changeType": "new",
-      "firstSeenAt": "2026-09-12T23:59:40.873Z",
-      "updatedAt": "2026-09-12T23:59:40.873Z",
-      "changedFields": [
-        "company",
-        "title",
-        "status",
-        "category",
-        "eligibility",
-        "detailUrl",
-        "sourceUrl"
-      ],
-      "company": "株式会社ラクーンホールディングス",
-      "title": "プロの現場で事業成長を体験できるWebエンジニアの長期インターン募集!",
-      "deadline": null,
-      "detailUrl": "https://www.raccoon.ne.jp/"
     }
   ]
 }
