@@ -1,7 +1,87 @@
 {
-  "generatedAt": "2026-10-11T01:00:05.286Z",
+  "generatedAt": "2026-10-15T00:31:28.790Z",
   "retentionDays": 14,
   "items": [
+    {
+      "id": "0d9e560be9b140a1df951af86a6ca1c32d28486b4ce5a93bb2271122bdfb4a25",
+      "changeType": "new",
+      "firstSeenAt": "2026-10-15T00:31:28.790Z",
+      "updatedAt": "2026-10-15T00:31:28.790Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "GMOペパボ株式会社",
+      "title": "【28卒本選考】710万円オファー!セキュリティエンジニア",
+      "deadline": "2026/11/30",
+      "detailUrl": "https://open.talentio.com/r/1/c/pepabo/pages/129286"
+    },
+    {
+      "id": "0a00112ede40fef548510b05fa4d766a9cf3ae1f482ccce18dba26faadd9da87",
+      "changeType": "new",
+      "firstSeenAt": "2026-10-15T00:31:28.790Z",
+      "updatedAt": "2026-10-15T00:31:28.790Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "GMOペパボ株式会社",
+      "title": "【28卒本選考】エンジニア(エキスパート)710万円オファー",
+      "deadline": "2026/11/30",
+      "detailUrl": "https://open.talentio.com/r/1/c/pepabo/pages/129289"
+    },
+    {
+      "id": "a114d7bc19e5bb4d1db80ea9036d5d352f8cdd56b413bbec7bb0abf6691fb9fd",
+      "changeType": "new",
+      "firstSeenAt": "2026-10-15T00:31:28.790Z",
+      "updatedAt": "2026-10-15T00:31:28.790Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "GMOペパボ株式会社",
+      "title": "【28卒本選考】エンジニア(東京・福岡勤務)",
+      "deadline": "2026/11/30",
+      "detailUrl": "https://open.talentio.com/r/1/c/pepabo/pages/129287"
+    },
+    {
+      "id": "52e16fe7452e5f3ee692bcc6e177dd48e1141c290fc1e01e4f8874e99e4d1fb1",
+      "changeType": "new",
+      "firstSeenAt": "2026-10-15T00:31:28.790Z",
+      "updatedAt": "2026-10-15T00:31:28.790Z",
+      "changedFields": [
+        "company",
+        "title",
+        "status",
+        "deadline",
+        "category",
+        "eligibility",
+        "detailUrl",
+        "sourceUrl"
+      ],
+      "company": "ゴールドマン・サックス",
+      "title": "【28卒本選考】エンジニアリング",
+      "deadline": "2026/11/05",
+      "detailUrl": "https://www.goldmansachs.com/"
+    },
     {
       "id": "8f96330f32fa625262f50cefbd668c80905e3b292db867f2dc98cf7385192b07",
       "changeType": "new",
